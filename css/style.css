@@ -4,34 +4,34 @@
 ||||||||||||||||||||||||||||              TABLE OF CONTENT                  ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
 ****************************************************************************************************************
-* 1. imported styles 
-* 2. miscelnious styles 
-* 3. header styles 
-* 4. search popup styles 
-* 5. banner styles 
-* 6. features styles 
-* 7. faq styles 
-* 8. testimonials styles 
-* 9. team styles 
-* 10. brand styles 
-* 11. contact styles 
-* 12. footer styles 
-* 13. cta styles 
-* 14. subscribe styles 
-* 15. inner banner styles 
-* 16. fun fact styles 
-* 17. blog styles 
-* 18. 404 styles 
-* 19. img box styles 
-* 20. app screenshot styles 
-* 21. video box styles 
-* 22. pricing styles 
-* 23. sidebar styles 
+* 1. imported styles
+* 2. miscelnious styles
+* 3. header styles
+* 4. search popup styles
+* 5. banner styles
+* 6. features styles
+* 7. faq styles
+* 8. testimonials styles
+* 9. team styles
+* 10. brand styles
+* 11. contact styles
+* 12. footer styles
+* 13. cta styles
+* 14. subscribe styles
+* 15. inner banner styles
+* 16. fun fact styles
+* 17. blog styles
+* 18. 404 styles
+* 19. img box styles
+* 20. app screenshot styles
+* 21. video box styles
+* 22. pricing styles
+* 23. sidebar styles
 ****************************************************************************************************************
 ||||||||||||||||||||||||||||            End TABLE OF CONTENT                ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************/
-/************************** 
-* 1. imported styles 
+/**************************
+* 1. imported styles
 ***************************/
 @import url(https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i);
 @import url(bootstrap.min.css);
@@ -49,8 +49,8 @@
 @import url(../plugins/bands-icon/style.css);
 @import url(../plugins/fontawesome-5/css/fontawesome-all.min.css);
 @import url(../plugins/binmp-icon/style.css);
-/************************** 
-* 2. miscelnious styles 
+/**************************
+* 2. miscelnious styles
 ***************************/
 body {
   font-family: 'Montserrat';
@@ -193,8 +193,8 @@ a:active {
     opacity: 0;
   }
 }
-/************************** 
-* 3. header styles 
+/**************************
+* 3. header styles
 ***************************/
 .header-navigation {
   background-color: transparent;
@@ -408,8 +408,8 @@ a:active {
   padding: 20px 0;
 }
 
-/************************** 
-* 4. search popup styles 
+/**************************
+* 4. search popup styles
 ***************************/
 .search_area {
   position: relative;
@@ -576,8 +576,8 @@ a:active {
   opacity: 0;
 }
 
-/************************** 
-* 5. banner styles 
+/**************************
+* 5. banner styles
 ***************************/
 #minimal-bootstrap-carousel {
   margin-top: 0px;
@@ -841,8 +841,8 @@ a:active {
   color: #FFB55D !important;
 }
 
-/************************** 
-* 6. features styles 
+/**************************
+* 6. features styles
 ***************************/
 .features-style-one {
   border-bottom: 2px solid #DDE1EF;
@@ -949,6 +949,7 @@ a:active {
   letter-spacing: -0.02em;
   font-weight: 500;
   margin-top: 40px;
+  text-align: justify;
 }
 
 .feature-style-three {
@@ -1086,8 +1087,8 @@ a:active {
   color: #FFB55D;
 }
 
-/************************** 
-* 7. faq styles 
+/**************************
+* 7. faq styles
 ***************************/
 .faq-style-one {
   padding-top: 110px;
@@ -1156,8 +1157,8 @@ a:active {
   margin-bottom: 60px;
 }
 
-/************************** 
-* 8. testimonials styles 
+/**************************
+* 8. testimonials styles
 ***************************/
 .testimonials-style-one {
   padding: 120px 0;
@@ -1389,8 +1390,8 @@ a:active {
   font-weight: 500;
 }
 
-/************************** 
-* 9. team styles 
+/**************************
+* 9. team styles
 ***************************/
 .team-style-one {
   padding-top: 110px;
@@ -1464,8 +1465,8 @@ a:active {
   margin-bottom: 60px;
 }
 
-/************************** 
-* 10. brand styles 
+/**************************
+* 10. brand styles
 ***************************/
 .brand-section {
   border-top: 2px solid #DDE1EF;
@@ -1492,8 +1493,8 @@ a:active {
   color: #6278cd;
 }
 
-/************************** 
-* 11. contact styles 
+/**************************
+* 11. contact styles
 ***************************/
 .contact-style-one {
   padding-bottom: 120px;
@@ -1617,8 +1618,8 @@ a:active {
   margin-bottom: -315px;
 }
 
-/************************** 
-* 12. footer styles 
+/**************************
+* 12. footer styles
 ***************************/
 .bg-style-two + .footer-top:before {
   background-color: #E8ECF6;
@@ -1664,8 +1665,8 @@ a:active {
   font-weight: 500;
 }
 
-/************************** 
-* 13. cta styles 
+/**************************
+* 13. cta styles
 ***************************/
 .call-to-action-one {
   padding-top: 105px;
@@ -1786,8 +1787,8 @@ a:active {
   background: #6278CD;
 }
 
-/************************** 
-* 14. subscribe styles 
+/**************************
+* 14. subscribe styles
 ***************************/
 .subscribe-style-one {
   padding: 120px 0;
@@ -1892,8 +1893,8 @@ a:active {
   background: #FFB55D;
 }
 
-/************************** 
-* 15. inner banner styles 
+/**************************
+* 15. inner banner styles
 ***************************/
 .inner-banner {
   background: transparent url(../img/inner-banner-bg.png) center top no-repeat;
@@ -1930,8 +1931,8 @@ a:active {
   font-weight: 400;
 }
 
-/************************** 
-* 16. fun fact styles 
+/**************************
+* 16. fun fact styles
 ***************************/
 .fun-fact-style-one {
   padding: 114px 0;
@@ -1951,8 +1952,8 @@ a:active {
   color: #7A7F93;
 }
 
-/************************** 
-* 17. blog styles 
+/**************************
+* 17. blog styles
 ***************************/
 .single-blog-style-one {
   margin-bottom: 50px;
@@ -2331,8 +2332,8 @@ a:active {
   background: #6278CD;
 }
 
-/************************** 
-* 18. 404 styles 
+/**************************
+* 18. 404 styles
 ***************************/
 .error-404-page {
   background: transparent url(../img/404-bg.jpg) center bottom no-repeat;
@@ -2369,8 +2370,8 @@ a:active {
   background: #FFB55D;
 }
 
-/************************** 
-* 19. img box styles 
+/**************************
+* 19. img box styles
 ***************************/
 .img-box-style-one {
   padding: 120px 0;
@@ -2417,8 +2418,8 @@ a:active {
   margin-top: 120px;
 }
 
-/************************** 
-* 20. app screenshot styles 
+/**************************
+* 20. app screenshot styles
 ***************************/
 .app-screenshot-style-one {
   padding: 120px 0;
@@ -2531,8 +2532,8 @@ a:active {
   margin-top: 120px;
 }
 
-/************************** 
-* 21. video box styles 
+/**************************
+* 21. video box styles
 ***************************/
 .vidoe-box-style-one {
   position: relative;
@@ -2585,8 +2586,8 @@ a:active {
   z-index: 11;
 }
 
-/************************** 
-* 22. pricing styles 
+/**************************
+* 22. pricing styles
 ***************************/
 .pricing-style-one {
   padding: 120px 0;
@@ -2842,8 +2843,8 @@ a:active {
   background: #34458F;
 }
 
-/************************** 
-* 23. sidebar styles 
+/**************************
+* 23. sidebar styles
 ***************************/
 .sidebar .single-sidebar {
   background: #FFFFFF;
